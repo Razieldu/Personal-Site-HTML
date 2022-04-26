@@ -1,2 +1,3 @@
-# cv
-個人網站
+# Personal-Site-HTML
+
+使用HTML架構的個人網站
